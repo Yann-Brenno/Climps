@@ -1,0 +1,1 @@
+.o-eptica{position:relative;text-align:center}.o-eptica,.o-eptica #epticaIframe{min-height:875px}.o-eptica iframe{padding:0;width:100%;min-height:80rem;border:none;z-index:1;opacity:0;visibility:hidden;transition:opacity .25s linear 0s,visibility 0s linear .25s}iframe.loaded{opacity:1;visibility:visible;transition:opacity .5s linear .5s,visibility 0s linear 0s}
